@@ -1,1 +1,1 @@
-# learn-python
+# Python for JavaScript Developers
